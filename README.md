@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/giulia-piombo/"><img src="https://img.shields.io/badge/-giulia-piombo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulia-piombo/" /></a>
+  <a href="https://www.linkedin.com/in/giulia-piombo/"><img src="https://img.shields.io/badge/-giuliapiombo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulia-piombo/" /></a>
   <a href="mailto:giulia.piombo01@gmail.com"><img src="https://img.shields.io/badge/-giulia.piombo01@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giulia.piombo01@gmail.com" /></a>
 </div>
 
