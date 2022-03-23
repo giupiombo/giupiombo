@@ -6,7 +6,7 @@
 <p>:brazil: From São Paulo, SP | :us: Living in Lubbock, Texas</p>
 
 ### Education & Work
-<p>:mortar_board: B.S. in Computer Engineer at <strong>Texas Tech University</strong> with minor in Mathematics</p>
+<p>:mortar_board: B.S. in Computer Engineer at <strong>Texas Tech University</strong> with minor in Mathematics and Computer Science</p>
 <p>:briefcase: Undergraduate Student Researcher</p>
 
 ### Technologies
