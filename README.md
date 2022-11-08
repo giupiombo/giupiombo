@@ -5,9 +5,8 @@
 <p>:globe_with_meridians: Passionate about applying my academic knowledge in a practical and efficient way to develop purposeful software.</p>
 <p>:brazil: From São Paulo, SP | :us: Living in Lubbock, Texas</p>
 
-### Education & Work
+### Education
 <p>:mortar_board: B.S. in Computer Engineer at <strong>Texas Tech University</strong> with minor in Mathematics and Computer Science</p>
-<p>:briefcase: Undergraduate Student Researcher</p>
 
 ### Technologies
 <img src="https://cdn-icons-png.flaticon.com/32/5968/5968292.png"/><img src="https://cdn-icons-png.flaticon.com/32/1260/1260667.png"/><img src="https://cdn-icons-png.flaticon.com/32/226/226777.png"/><img src="https://cdn-icons-png.flaticon.com/32/1387/1387537.png"/><img src="https://cdn-icons-png.flaticon.com/32/5968/5968705.png"/>
