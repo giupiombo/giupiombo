@@ -3,7 +3,7 @@
 
 ### About myself
 <p>:globe_with_meridians: Passionate software engineer focused on purposeful development, continuous learning, and collaborative teamwork.</p>
-<p>:brazil: From São Paulo, SP | :us: Living in Royal Oak, Michigan</p>
+<p>:brazil: From São Paulo, SP | :us: Living in Houston, Texas</p>
 
 ### Education
 <p>:mortar_board: B.S. in Computer Engineer at <strong>Texas Tech University</strong> with minors in Mathematics and Computer Science</p>
